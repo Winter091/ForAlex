@@ -1,0 +1,7 @@
+WINDOW_W = 1280
+WINDOW_H = 720
+
+FPS = 100
+
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
